@@ -28,11 +28,6 @@ The analysis is based on several datasets:
 - **Correlation Analysis**: Explored correlations between different climate variables to understand their relationships.
 - **Spatial Analysis**: Visualized spatial patterns in climate variables using maps to identify regional variations.
 
-## Final Report Plot
-
-![Average Daily Temperature Over Years](link_to_your_plot_image.png)
-
-Caption: Plot showing the average daily temperature over years, derived from the analysis.
 
 ## Conclusion
 
